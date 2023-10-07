@@ -1,3 +1,3 @@
-git clone 
-cp .env.example .env
-php artisan key:generate
+git clone  <br>
+cp .env.example .env <br>
+php artisan key:generate <br>
